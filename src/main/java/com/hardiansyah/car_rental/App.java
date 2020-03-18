@@ -20,8 +20,8 @@ public class App
         Car carC = new Corola(); // 150.000
         
         RentTransaction trx1 = new RentTransaction(3);
-        trx1.addCar(carA);
-        trx1.addCar(carB);
+//        trx1.addCar(carA);
+//        trx1.addCar(carB);
         trx1.addCar(carC);
         
         // 2068500
